@@ -1,5 +1,5 @@
-
--- Load function where all the loading logic goes
+--25/01/2023
+-- Load function where all the loading logic goes 
 
 function love.load()
     x, y, w, h = 1000, 10, 20, 20
